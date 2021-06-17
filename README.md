@@ -1,4 +1,4 @@
-# piv_apple
+# piv
 Image Processing and Vision assignment
 
 ## Project description
